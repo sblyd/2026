@@ -3,7 +3,7 @@
 # 来源: vbskycn/iptv(iptv4) / Guovin/iptv-api / iptv-org(cn/hk/tw/sg)
 # 说明: 仅收录经可用性验证的 IPv4 源；同一频道最多保留 3 个源，按连接速度排序（快的在前），APTV 可直接切换；硬失败(404/410/服务错误)已剔除，超时条目保留作备用
 #EXTINF:-1 group-title="央视",CCTV-1 HD
-http://69.30.245.50/live/cctv1.m3u8
+http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2
 http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2
