@@ -325,9 +325,11 @@ http://120.76.248.139/live/bfgd/4200000473.m3u8
 #EXTINF:-1 group-title="卫视",海南卫视
 https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 #EXTINF:-1 group-title="卫视",东方卫视
-http://107.150.60.122/live/dfwshd.m3u8
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 #EXTINF:-1 group-title="卫视",东方卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
+#EXTINF:-1 group-title="卫视",东方卫视
+http://107.150.60.122/live/dfwshd.m3u8
 #EXTINF:-1 group-title="卫视",厦门卫视
 http://198.204.228.26/live/xmws.m3u8
 #EXTINF:-1 group-title="卫视",厦门卫视
@@ -552,6 +554,8 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="港澳台",FTV (Taiwan)
 https://stream1.freetv.fun/3de1bef9bfa7e28ddac0d0c4982736636d3b61978f2f2525d9133f7afcff0884.ctv
+#EXTINF:-1 group-title="港澳台",华视
+http://38.64.72.148/hls/modn/list/4025/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",华视
 https://stream1.freetv.fun/4ea88a37de2bb1a69fda2f631b257cb4f7fa912c7c999c151d2c4145db972489.ctv
 #EXTINF:-1 group-title="港澳台",中视
