@@ -1,12 +1,12 @@
 #Title: AWAvenue Ads Rule (DOMAIN-WILDCARD optimized)
 #--------------------------------------
-#Total lines: 961
+#Total lines: 972
 #Version: 1.7.8-release
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
-#Converted: 2026-10-16 18:42:36 UTC+8
+#Converted: 2026-10-23 07:36:08 UTC+8
 #Source: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Surge.list
-#Total rules: 958
+#Total rules: 969
 
 DOMAIN-WILDCARD,*.1500020991.vodplayer.wxamedia.com
 DOMAIN-WILDCARD,*.1500022744.vodplayer.wxamedia.com
@@ -18,6 +18,8 @@ DOMAIN-WILDCARD,*.aaid.umeng.com
 DOMAIN-WILDCARD,*.abtest-ch.snssdk.com
 DOMAIN-WILDCARD,*.ad-api.4pyun.com
 DOMAIN-WILDCARD,*.ad-cdn.qingting.fm
+DOMAIN-WILDCARD,*.ad-cmp.hismarttv.com
+DOMAIN-WILDCARD,*.ad-download.hismarttv.com
 DOMAIN-WILDCARD,*.ad-files.4pyun.com
 DOMAIN-WILDCARD,*.ad-scope.com
 DOMAIN-WILDCARD,*.ad-scope.com.cn
@@ -297,6 +299,7 @@ DOMAIN-WILDCARD,*.biz.weibo.com
 DOMAIN-WILDCARD,*.bj-td-menta-01-callback.advlion.com
 DOMAIN-WILDCARD,*.bj.ad.track.66mobi.com
 DOMAIN-WILDCARD,*.books-analytics-events.apple.com
+DOMAIN-WILDCARD,*.boost-cmp.hismarttv.com
 DOMAIN-WILDCARD,*.bootpreload.uve.weibo.com
 DOMAIN-WILDCARD,*.brandadsstatic.vivo.com.cn
 DOMAIN-WILDCARD,*.browser.events.data.msn.cn
@@ -402,6 +405,7 @@ DOMAIN-WILDCARD,*.frontend-perf-service.e.kuaishou.com
 DOMAIN-WILDCARD,*.fxgate.baidu.com
 DOMAIN-WILDCARD,*.g-adnet.hiaiabc.com
 DOMAIN-WILDCARD,*.g-staic.ganjingworld.com
+DOMAIN-WILDCARD,*.g.cn.miaozhen.com
 DOMAIN-WILDCARD,*.g.dtv.cn.miaozhen.com
 DOMAIN-WILDCARD,*.g.fancyapi.com
 DOMAIN-WILDCARD,*.g2.ganjing.world
@@ -477,6 +481,7 @@ DOMAIN-WILDCARD,*.img-c.heytapimage.com
 DOMAIN-WILDCARD,*.img-x.jd.com
 DOMAIN-WILDCARD,*.img.adnyg.com.w.kunlungr.com
 DOMAIN-WILDCARD,*.img2.360buyimg.com
+DOMAIN-WILDCARD,*.imp-cmp.hismarttv.com
 DOMAIN-WILDCARD,*.impression-asia.chinaliftoff.io
 DOMAIN-WILDCARD,*.impression-asia.liftoff.io
 DOMAIN-WILDCARD,*.impression.appsflyer.com
@@ -523,6 +528,7 @@ DOMAIN-WILDCARD,*.lives.l.aiseet.atianqi.com
 DOMAIN-WILDCARD,*.lives.l.ott.video.qq.com
 DOMAIN-WILDCARD,*.livewebbs2pcdn.msstatic.com
 DOMAIN-WILDCARD,*.lm10111.jtrincc.cn
+DOMAIN-WILDCARD,*.loading-cmp.hismarttv.com
 DOMAIN-WILDCARD,*.log-api-mn.huxiu.com
 DOMAIN-WILDCARD,*.log-api.huxiu.com
 DOMAIN-WILDCARD,*.log-api.pangolin-sdk-toutiao-b.com
@@ -612,6 +618,7 @@ DOMAIN-WILDCARD,*.ms.applvn.com
 DOMAIN-WILDCARD,*.ms4.applovin.com
 DOMAIN-WILDCARD,*.ms4.applvn.com
 DOMAIN-WILDCARD,*.msdk.voiceads.cn
+DOMAIN-WILDCARD,*.msg-cmp.hismarttv.com
 DOMAIN-WILDCARD,*.mssdk.volces.com
 DOMAIN-WILDCARD,*.mssdk.zijieapi.com
 DOMAIN-WILDCARD,*.mtj.baidu.com
@@ -661,6 +668,7 @@ DOMAIN-WILDCARD,*.p66-ad.adkwai.com
 DOMAIN-WILDCARD,*.pagead2.googleadservices.com
 DOMAIN-WILDCARD,*.pagead2.googlesyndication.com
 DOMAIN-WILDCARD,*.pangolin-sdk-toutiao-b.com
+DOMAIN-WILDCARD,*.paster-cmp.hismarttv.com
 DOMAIN-WILDCARD,*.pay.sboot.cn
 DOMAIN-WILDCARD,*.pcdn.xmcdn.com
 DOMAIN-WILDCARD,*.pcdn.yximgs.com
@@ -690,6 +698,7 @@ DOMAIN-WILDCARD,*.qmlog.baertt.com
 DOMAIN-WILDCARD,*.qn-cdnfile1pcdn.msstatic.com
 DOMAIN-WILDCARD,*.qqdata.ab.qq.com
 DOMAIN-WILDCARD,*.qzs.gdtimg.com
+DOMAIN-WILDCARD,*.recmd-cmp.hismarttv.com
 DOMAIN-WILDCARD,*.recommend-drcn.hms.dbankcloud.cn
 DOMAIN-WILDCARD,*.report.dxunion.cn
 DOMAIN-WILDCARD,*.report.tencentmusic.com
@@ -700,6 +709,7 @@ DOMAIN-WILDCARD,*.res1.hubcloud.com.cn
 DOMAIN-WILDCARD,*.res2.hubcloud.com.cn
 DOMAIN-WILDCARD,*.res3.hubcloud.com.cn
 DOMAIN-WILDCARD,*.resolve.umeng.com
+DOMAIN-WILDCARD,*.resource-cmp.hismarttv.com
 DOMAIN-WILDCARD,*.review.gdtimg.com
 DOMAIN-WILDCARD,*.rlog.popin.cc
 DOMAIN-WILDCARD,*.rms-drcn.platform.dbankcloud.cn
@@ -894,6 +904,7 @@ DOMAIN-WILDCARD,*.v1-ad.video.yximgs.com
 DOMAIN-WILDCARD,*.v2-ad.video.yximgs.com
 DOMAIN-WILDCARD,*.v2-api-channel-launcher.hismarttv.com
 DOMAIN-WILDCARD,*.v2.gdt.qq.com
+DOMAIN-WILDCARD,*.v2.reachmax.cn
 DOMAIN-WILDCARD,*.v2mi.gdt.qq.com
 DOMAIN-WILDCARD,*.v3-ad.video.yximgs.com
 DOMAIN-WILDCARD,*.v3.gdt.qq.com
