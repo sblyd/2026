@@ -1,5 +1,5 @@
 #EXTM3U
-# 生成日期: 2026-10-23
+# 生成日期: 2026-10-24
 # 说明: APTV-3 —— 各频道第 3 个源（按连接速度排序），与 APTV.m3u 同步每日更新
 #EXTINF:-1 group-title="央视",CCTV-2
 http://107.150.60.122/live/cctv2hd.m3u8
@@ -29,8 +29,6 @@ http://204.12.221.218:8181/3m1080p/cctv14.m3u8
 http://198.204.228.26/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV-17
 https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="卫视",福建海峡卫视
-http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
 #EXTINF:-1 group-title="卫视",山西卫视
 http://107.150.60.122/live/sxwshd.m3u8
 #EXTINF:-1 group-title="卫视",安徽卫视
@@ -79,8 +77,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="卫视",厦门卫视
 http://107.150.60.122/live/xmws.m3u8
-#EXTINF:-1 group-title="卫视",延边卫视
-http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8
 #EXTINF:-1 group-title="卫视",香港卫视
 https://stream1.freetv.fun/ae7eaf28d8610cdc1651ef6a1f7dbb24b49c5a87627d0d881330afaea37a1616.m3u8
 #EXTINF:-1 group-title="港澳台",东森超视
@@ -105,6 +101,8 @@ https://migu.188766.xyz/?migutoken=103d22404add9b90cd72174eb1a0108b&id=%E5%BF%AB
 https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="地方台",生活时尚
 https://stream1.freetv.fun/sheng-huo-shi-shang-9.ctv
+#EXTINF:-1 group-title="地方台",项城新闻
+http://p2.weizan.cn/978354/131995006225520039/live.m3u8
 #EXTINF:-1 group-title="地方台",猫和老鼠
 https://live.metshop.top/huya/11352879
 #EXTINF:-1 group-title="地方台",风云音乐
@@ -129,8 +127,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 https://tv.iill.top/fm/552&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
 #EXTINF:-1 group-title="地方台",广西新闻
 http://107.150.60.122/live/gxxw.m3u8
-#EXTINF:-1 group-title="地方台",泸县新闻综合
-http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 #EXTINF:-1 group-title="地方台",金鹰纪实
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8
 #EXTINF:-1 group-title="地方台",余姚综合
@@ -138,7 +134,7 @@ https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 group-title="地方台",哈哈炫动
 https://stream1.freetv.fun/ha-ha-xuan-dong-29.m3u8
 #EXTINF:-1 group-title="地方台",开化国家公园
-http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
 #EXTINF:-1 group-title="地方台",萧山生活
 http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 #EXTINF:-1 group-title="地方台",优漫卡通
